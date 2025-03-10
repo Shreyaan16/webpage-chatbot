@@ -1,6 +1,7 @@
 # Brainlox Course Assistant
 
-A Flask-based AI chatbot that answers questions about technical courses from Brainlox.
+A Flask-based AI chatbot that answers questions about technical courses from Brainlox based on gemini api key
+need to keep the api key inside GEMINI_API_KEY in the .env file
 
 ## Features
 
